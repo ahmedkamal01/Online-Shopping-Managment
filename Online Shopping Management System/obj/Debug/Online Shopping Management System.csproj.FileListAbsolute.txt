@@ -1,0 +1,90 @@
+c:\users\hima\documents\visual studio 2013\Projects\Online Shopping Management System\Online Shopping Management System\bin\Debug\Online Shopping Management System.exe.config
+C:\Users\hima\Documents\Visual Studio 2015\Projects\Online Shopping Management System\Online Shopping Management System\bin\Debug\Online Shopping Management System.exe.config
+C:\Users\hima\Documents\Visual Studio 2015\Projects\Online Shopping Management System\Online Shopping Management System\bin\Debug\Online Shopping Management System.exe
+C:\Users\hima\Documents\Visual Studio 2015\Projects\Online Shopping Management System\Online Shopping Management System\bin\Debug\Online Shopping Management System.pdb
+C:\Users\hima\Documents\Visual Studio 2015\Projects\Online Shopping Management System\Online Shopping Management System\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\hima\Documents\Visual Studio 2015\Projects\Online Shopping Management System\Online Shopping Management System\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\hima\Documents\Visual Studio 2015\Projects\Online Shopping Management System\Online Shopping Management System\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\hima\Documents\Visual Studio 2015\Projects\Online Shopping Management System\Online Shopping Management System\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\hima\Documents\Visual Studio 2015\Projects\Online Shopping Management System\Online Shopping Management System\bin\Debug\FlashControlV71.dll
+C:\Users\hima\Documents\Visual Studio 2015\Projects\Online Shopping Management System\Online Shopping Management System\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\hima\Documents\Visual Studio 2015\Projects\Online Shopping Management System\Online Shopping Management System\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\hima\Documents\Visual Studio 2015\Projects\Online Shopping Management System\Online Shopping Management System\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\hima\Documents\Visual Studio 2015\Projects\Online Shopping Management System\Online Shopping Management System\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\hima\Documents\Visual Studio 2015\Projects\Online Shopping Management System\Online Shopping Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\hima\Documents\Visual Studio 2015\Projects\Online Shopping Management System\Online Shopping Management System\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\hima\Documents\Visual Studio 2015\Projects\Online Shopping Management System\Online Shopping Management System\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\hima\Documents\Visual Studio 2015\Projects\Online Shopping Management System\Online Shopping Management System\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\hima\Documents\Visual Studio 2015\Projects\Online Shopping Management System\Online Shopping Management System\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\hima\Documents\Visual Studio 2015\Projects\Online Shopping Management System\Online Shopping Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\hima\Documents\Visual Studio 2015\Projects\Online Shopping Management System\Online Shopping Management System\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\hima\Documents\Visual Studio 2015\Projects\Online Shopping Management System\Online Shopping Management System\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\hima\Documents\Visual Studio 2015\Projects\Online Shopping Management System\Online Shopping Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\hima\Documents\Visual Studio 2015\Projects\Online Shopping Management System\Online Shopping Management System\bin\Debug\stdole.dll
+C:\Users\hima\Documents\Visual Studio 2015\Projects\Online Shopping Management System\Online Shopping Management System\obj\Debug\Online_Shopping_Management_System.PL.FRM_ADD_PRODUCT.resources
+C:\Users\hima\Documents\Visual Studio 2015\Projects\Online Shopping Management System\Online Shopping Management System\obj\Debug\Online_Shopping_Management_System.PL.FRM_CAT_Mngmnt.resources
+C:\Users\hima\Documents\Visual Studio 2015\Projects\Online Shopping Management System\Online Shopping Management System\obj\Debug\Online_Shopping_Management_System.PL.FRM_LOGIN.resources
+C:\Users\hima\Documents\Visual Studio 2015\Projects\Online Shopping Management System\Online Shopping Management System\obj\Debug\Online_Shopping_Management_System.PL.Frm_NU_Cusromer.resources
+C:\Users\hima\Documents\Visual Studio 2015\Projects\Online Shopping Management System\Online Shopping Management System\obj\Debug\Online_Shopping_Management_System.PL.Main_FRM.resources
+C:\Users\hima\Documents\Visual Studio 2015\Projects\Online Shopping Management System\Online Shopping Management System\obj\Debug\Online_Shopping_Management_System.PL.Prdct_Mngmnt.resources
+C:\Users\hima\Documents\Visual Studio 2015\Projects\Online Shopping Management System\Online Shopping Management System\obj\Debug\Online_Shopping_Management_System.PL.SHOW_PIC.resources
+C:\Users\hima\Documents\Visual Studio 2015\Projects\Online Shopping Management System\Online Shopping Management System\obj\Debug\Online_Shopping_Management_System.Properties.Resources.resources
+C:\Users\hima\Documents\Visual Studio 2015\Projects\Online Shopping Management System\Online Shopping Management System\obj\Debug\Online_Shopping_Management_System.RPRT.PRNT_SNGL_PRD.resources
+C:\Users\hima\Documents\Visual Studio 2015\Projects\Online Shopping Management System\Online Shopping Management System\obj\Debug\Online Shopping Management System.csproj.GenerateResource.Cache
+C:\Users\hima\Documents\Visual Studio 2015\Projects\Online Shopping Management System\Online Shopping Management System\obj\Debug\Online Shopping Management System.exe
+C:\Users\hima\Documents\Visual Studio 2015\Projects\Online Shopping Management System\Online Shopping Management System\obj\Debug\Online Shopping Management System.pdb
+C:\Users\hima\Documents\Visual Studio 2015\Projects\Online Shopping Management System\Online Shopping Management System\obj\Debug\Online Shopping Management System.csprojResolveAssemblyReference.cache
+C:\Users\hima\Documents\Visual Studio 2015\Projects\Online Shopping Management System\Online Shopping Management System\obj\Debug\Online_Shopping_Management_System.PL.FRM_ORDERS.resources
+C:\Users\hima\Documents\Visual Studio 2015\Projects\Online Shopping Management System\Online Shopping Management System\obj\Debug\Online_Shopping_Management_System.PL.FRM_CUST_VIEW.resources
+C:\Users\hima\Documents\Visual Studio 2015\Projects\Online Shopping Management System\Online Shopping Management System\obj\Debug\Online_Shopping_Management_System.PL.FRM_VIEW_PRODCTS.resources
+C:\Users\hima\Documents\Visual Studio 2015\Projects\Online Shopping Management System\Online Shopping Management System\obj\Debug\Online_Shopping_Management_System.PL.FRM_BELLS_MNGMNT.resources
+C:\Users\hima\Documents\Visual Studio 2015\Projects\Online Shopping Management System\Online Shopping Management System\obj\Debug\Online_Shopping_Management_System.PL.FRM_ADD_USER.resources
+C:\Users\hima\Documents\Visual Studio 2015\Projects\Online Shopping Management System\Online Shopping Management System\obj\Debug\Online_Shopping_Management_System.PL.FRM_USERS_MNGMNT.resources
+C:\Users\hima\Documents\Visual Studio 2015\Projects\Online Shopping Management System\Online Shopping Management System\obj\Debug\Online_Shopping_Management_System.PL.FRM_BackUp.resources
+C:\Users\hima\Documents\Visual Studio 2015\Projects\Online Shopping Management System\Online Shopping Management System\obj\Debug\Online_Shopping_Management_System.PL.FRM_Restore.resources
+C:\Users\hima\Documents\Visual Studio 2015\Projects\Online Shopping Management System\Online Shopping Management System\obj\Debug\Online_Shopping_Management_System.PL.FRM_Settings.resources
+C:\Users\hima\Documents\Visual Studio 2015\Projects\Online Shopping Management System\Online Shopping Management System\obj\Debug\Online_Shopping_Management_System.PL.FRM_Delivery_Boy.resources
+C:\Users\hima\Documents\Visual Studio 2015\Projects\Online Shopping Management System\Online Shopping Management System\obj\Debug\Online_Shopping_Management_System.PL.FRM_Turning_Refunding.resources
+D:\2year fcis\Online-Shopping-Management-System\Online Shopping Management System\Online Shopping Management System\bin\Debug\Online Shopping Management System.exe.config
+D:\2year fcis\Online-Shopping-Management-System\Online Shopping Management System\Online Shopping Management System\obj\Debug\Online Shopping Management System.exe
+D:\2year fcis\Online-Shopping-Management-System\Online Shopping Management System\Online Shopping Management System\obj\Debug\Online Shopping Management System.pdb
+F:\Online-Shopping-Management-System\Online Shopping Management System\Online Shopping Management System\bin\Debug\Online Shopping Management System.exe.config
+F:\Online-Shopping-Management-System\Online Shopping Management System\Online Shopping Management System\obj\Debug\Online Shopping Management System.pdb
+F:\Online-Shopping-Management-System\Online Shopping Management System\Online Shopping Management System\bin\Debug\Online Shopping Management System.exe
+F:\Online-Shopping-Management-System\Online Shopping Management System\Online Shopping Management System\bin\Debug\Online Shopping Management System.pdb
+F:\Online-Shopping-Management-System\Online Shopping Management System\Online Shopping Management System\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\Online-Shopping-Management-System\Online Shopping Management System\Online Shopping Management System\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\Online-Shopping-Management-System\Online Shopping Management System\Online Shopping Management System\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\Online-Shopping-Management-System\Online Shopping Management System\Online Shopping Management System\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\Online-Shopping-Management-System\Online Shopping Management System\Online Shopping Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\Online-Shopping-Management-System\Online Shopping Management System\Online Shopping Management System\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\Online-Shopping-Management-System\Online Shopping Management System\Online Shopping Management System\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\Online-Shopping-Management-System\Online Shopping Management System\Online Shopping Management System\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\Online-Shopping-Management-System\Online Shopping Management System\Online Shopping Management System\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\Online-Shopping-Management-System\Online Shopping Management System\Online Shopping Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\Online-Shopping-Management-System\Online Shopping Management System\Online Shopping Management System\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\Online-Shopping-Management-System\Online Shopping Management System\Online Shopping Management System\bin\Debug\ShockwaveFlashObjects.dll
+F:\Online-Shopping-Management-System\Online Shopping Management System\Online Shopping Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\Online-Shopping-Management-System\Online Shopping Management System\Online Shopping Management System\obj\Debug\Online Shopping Management System.csprojResolveAssemblyReference.cache
+F:\Online-Shopping-Management-System\Online Shopping Management System\Online Shopping Management System\obj\Debug\Online_Shopping_Management_System.PL.FRM_ADD_PRODUCT.resources
+F:\Online-Shopping-Management-System\Online Shopping Management System\Online Shopping Management System\obj\Debug\Online_Shopping_Management_System.PL.FRM_ADD_USER.resources
+F:\Online-Shopping-Management-System\Online Shopping Management System\Online Shopping Management System\obj\Debug\Online_Shopping_Management_System.PL.FRM_BackUp.resources
+F:\Online-Shopping-Management-System\Online Shopping Management System\Online Shopping Management System\obj\Debug\Online_Shopping_Management_System.PL.FRM_BELLS_MNGMNT.resources
+F:\Online-Shopping-Management-System\Online Shopping Management System\Online Shopping Management System\obj\Debug\Online_Shopping_Management_System.PL.FRM_CAT_Mngmnt.resources
+F:\Online-Shopping-Management-System\Online Shopping Management System\Online Shopping Management System\obj\Debug\Online_Shopping_Management_System.PL.FRM_CUST_VIEW.resources
+F:\Online-Shopping-Management-System\Online Shopping Management System\Online Shopping Management System\obj\Debug\Online_Shopping_Management_System.PL.FRM_Delivery_Boy.resources
+F:\Online-Shopping-Management-System\Online Shopping Management System\Online Shopping Management System\obj\Debug\Online_Shopping_Management_System.PL.FRM_LOGIN.resources
+F:\Online-Shopping-Management-System\Online Shopping Management System\Online Shopping Management System\obj\Debug\Online_Shopping_Management_System.PL.Frm_NU_Cusromer.resources
+F:\Online-Shopping-Management-System\Online Shopping Management System\Online Shopping Management System\obj\Debug\Online_Shopping_Management_System.PL.FRM_ORDERS.resources
+F:\Online-Shopping-Management-System\Online Shopping Management System\Online Shopping Management System\obj\Debug\Online_Shopping_Management_System.PL.FRM_Restore.resources
+F:\Online-Shopping-Management-System\Online Shopping Management System\Online Shopping Management System\obj\Debug\Online_Shopping_Management_System.PL.FRM_Settings.resources
+F:\Online-Shopping-Management-System\Online Shopping Management System\Online Shopping Management System\obj\Debug\Online_Shopping_Management_System.PL.FRM_Turning_Refunding.resources
+F:\Online-Shopping-Management-System\Online Shopping Management System\Online Shopping Management System\obj\Debug\Online_Shopping_Management_System.PL.FRM_USERS_MNGMNT.resources
+F:\Online-Shopping-Management-System\Online Shopping Management System\Online Shopping Management System\obj\Debug\Online_Shopping_Management_System.PL.FRM_VIEW_PRODCTS.resources
+F:\Online-Shopping-Management-System\Online Shopping Management System\Online Shopping Management System\obj\Debug\Online_Shopping_Management_System.PL.Main_FRM.resources
+F:\Online-Shopping-Management-System\Online Shopping Management System\Online Shopping Management System\obj\Debug\Online_Shopping_Management_System.PL.Prdct_Mngmnt.resources
+F:\Online-Shopping-Management-System\Online Shopping Management System\Online Shopping Management System\obj\Debug\Online_Shopping_Management_System.PL.SHOW_PIC.resources
+F:\Online-Shopping-Management-System\Online Shopping Management System\Online Shopping Management System\obj\Debug\Online_Shopping_Management_System.Properties.Resources.resources
+F:\Online-Shopping-Management-System\Online Shopping Management System\Online Shopping Management System\obj\Debug\Online_Shopping_Management_System.RPRT.PRNT_SNGL_PRD.resources
+F:\Online-Shopping-Management-System\Online Shopping Management System\Online Shopping Management System\obj\Debug\Online Shopping Management System.csproj.GenerateResource.Cache
+F:\Online-Shopping-Management-System\Online Shopping Management System\Online Shopping Management System\obj\Debug\Online Shopping Management System.exe
